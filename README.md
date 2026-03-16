@@ -20,4 +20,4 @@ Exploring differences betwwen life expenctency of right-handers vs left-handers.
 -<a href="https://github.com/Sadhanavvs/LH-vs-RH-Analysis/blob/main/age_data.csv">dataset</a>
 -<a href="https://github.com/Sadhanavvs/LH-vs-RH-Analysis/blob/main/iris.csv">dataset</a>
 ## Dashboard
-
+ -<a href="https://github.com/Sadhanavvs/LH-vs-RH-Analysis/blob/main/LH%20VS%20RH%20Dashboard.jpg">view dashbooard</a>
