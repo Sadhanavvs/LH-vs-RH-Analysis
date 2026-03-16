@@ -1,2 +1,2 @@
-# LH-vs-RH-Analysis
-LH vs RH Analysis
+## Analysis of Death age difference between Right-handers and Left-Handers
+#
